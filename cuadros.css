@@ -1,0 +1,135 @@
+body
+{
+    background-color: chartreuse;
+}
+.cabeza{
+    height: 100px;
+    width: 2000px;
+    background-color: blue;
+    max-width: 20000px;
+    text-align: center;
+    h1
+    {
+        color: white;
+        font-size: 50px;
+    }
+
+}
+.contenedor {
+background-color: aqua;
+    height: 1700px;
+    width: 900px;
+    border: black 5px dashed;
+    margin: 0 auto;
+    /*margin-top: 50px;*/
+}
+ 
+.link{
+    align-items: center;
+    text-align: center;
+}
+
+.link2
+{
+    color: white;
+    font-size: 50px;
+}
+
+.caja1 {
+    background-color: red;
+    height: 300px;
+    width: 600px;
+    float: left;
+}
+.caja2 {
+    background-color: blue;
+    height: 300px;
+    width: 300px;
+    float: left;
+}
+.caja3 {
+    background-color: rgb(66, 48, 227);
+    height: 300px;
+    width: 300px;
+    float: left;
+}
+.caja4 {
+    background-color: rgb(175, 224, 28);
+    height: 300px;
+    width: 300px;
+    float: left;
+}
+
+.caja5 {
+    background-color: rgb(129, 52, 8);
+    height: 300px;
+    width: 300px;
+    float: left;
+}
+.caja6
+{
+    background-color: rgb(190, 168, 155);
+    height: 600px;
+    width: 225px;
+    float: left;
+}
+
+.caja7
+{
+    background-color: rgb(255, 235, 17);
+    height: 600px;
+    width: 225px;
+    float: left;
+}
+
+.caja8
+{
+    background-color: rgb(190, 173, 164);
+    height: 600px;
+    width: 225px;
+    float: left;
+}
+
+.caja9
+{
+    background-color: rgb(20, 196, 55);
+    height: 600px;
+    width: 225px;
+    float: left;
+}
+
+.caja10
+{
+    background-color: rgb(129, 52, 8);
+    height: 300px;
+    width: 900px;
+    float: left;
+    /*margin: 0 auto;*/
+    text-align: center;
+}
+.caja11
+{
+    align-items: center;
+    background-color: rgb(147, 19, 211);
+    height: 90px;
+    width: 400px;
+    margin: 0 auto;
+    float: left;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin-top: 10%;
+    margin-left: 25%;
+}
+.link4{
+    align-items: center;
+    text-align: center;
+    height: 30px;
+    width: 900px;
+    
+}
+
+.link5
+{
+    font-family: fantasy;
+    font-size: 50px;
+    color: white;
+}
